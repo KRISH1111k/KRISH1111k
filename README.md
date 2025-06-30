@@ -74,15 +74,7 @@
 
 ---
 
-### 🏆 Certifications & Achievements
 
-- 🎓 12+ Coursera Certifications (Web Dev, HTML, CSS, AngularJS)
-- 🥇 Elewayte AI/ML Internship – Certificate of Excellence + Stipend
-- 🎖️ CodeChef – DBMS & DAA
-- ☁️ Microsoft Azure – AI Fundamentals (NLP + CV)
-- 🏁 Finalist – Vashisht Hackathon 2.0
-
----
 
 ### 📊 GitHub Stats
 
