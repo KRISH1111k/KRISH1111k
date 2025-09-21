@@ -12,6 +12,13 @@
 ### 🧠 About Me
 
 - 🎓 Final-year B.Tech CSE (AI & ML) student at **Kalasalingam Academy**
+- ### 💼 Internships
+
+
+
+- 💻 **SDE Intern** @ Bluestock Fintech (Jul 2025 – Aug 2025)  
+  → Developed and optimized backend services, integrated APIs, and contributed to full-stack features for financial applications
+
 - 🤖 AI Developer Intern @ **IIITDM Hyderabad** – working on multilingual AI for speech and text
 - 🧪 AI/ML Intern @ **Elewayte (Wipro)** – built ML pipelines for traffic and smart surveillance
 - 🚀 Passionate about blending **full stack development** with **AI innovation**
